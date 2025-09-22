@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Pentesting position<br>👯 I’m looking to collaborate on SAAS development<br>🌱 I’m currently learning Malware development<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on Pentesting position<br>👯 I’m looking to collaborate on SAAS development<br>🌱 I’m currently learning Malware development<br>💬 Ask me about: AnyThing! <br>
 
 
 ## 🌐 Socials:
