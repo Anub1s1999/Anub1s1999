@@ -20,7 +20,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anub1s1999&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anub1s1999&repo=YourRepoName&theme=dark)](https://github.com/Anub1s1999/Password-Spraying)
+![](https://github-contributor-stats.vercel.app/api?username=Anub1s1999&repo=YourRepoName&theme=dark)](https://github.com/Anub1s1999/Password-Spraying)
 
 
 ---
